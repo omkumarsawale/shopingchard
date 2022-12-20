@@ -1,0 +1,356 @@
+.second-bar{
+    font-size: 45px;
+line-height: 32px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Berlin Sans FB Demi";
+margin-right: 50px;
+}
+
+
+.dropdown{
+    font-size: 14px;
+line-height: 32px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Poppins";
+margin-right: 50px;
+}
+
+.frist-dropdwon{
+    font-size: 14px;
+    line-height: 32px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Poppins";
+    margin-right: 50px;
+}
+.fa-cart-plus{
+    margin-right: 40px;
+}
+.fa-user-lock{
+    margin-left: 11px;
+}
+
+.fa-solid, .fas {
+   
+
+color: #fffefc;
+
+}
+.second-bar{
+    margin-left: 60px;
+    margin-right: 40px;
+}
+
+.frist-dropdwon{
+    padding-left: 50px;
+}
+
+.second-dropdown{
+    margin-right: 30px;
+}
+
+
+
+.Get-Star{
+    font-size: 70px;
+line-height: 70px;
+text-transform: uppercase;
+color: #f1f1f1;
+font-weight: 700;
+font-family: "Poppins";
+text-align: center;
+text-align: center;
+}
+
+#search {
+	margin-bottom: 129px;
+}
+
+
+.arrow li{
+display: inline-block;
+
+}
+
+
+.Buy-Now{
+    font-size: 17px;
+line-height: 70px;
+color: #fffffe;
+font-weight: 700;
+font-family: "Poppins";
+text-align: center;
+}
+
+
+.btn-primary {
+	color: #fff;
+	background-color: #1a1b1c;
+	border-color: #101010;
+    margin-bottom: 70px;
+    margin-top: 110px;
+   
+
+}
+
+
+.Woman-Fashion{
+    font-size: 40px;
+line-height: 32px;
+color: #30302e;
+font-weight: 700;
+font-family: "Poppins";
+text-align: center;
+margin-bottom: 40px;
+}
+
+.bg-color{
+    margin-bottom: 57px;
+}
+
+
+img {
+    
+    padding: 40px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+        
+           
+    
+}
+
+
+body {
+	color: rgba(0,0,0,.87);
+	font-family: Roboto,HelveticaNeue,Arial,sans-serif;
+	font-size: small;
+}
+
+
+.fa-solid.fa-angles-right {
+	color: aqua;
+    font-size: 40px;
+line-height: 32px;
+color: #30302e;
+font-weight: 700;
+
+}
+
+.fa-solid.fa-angles-left {
+	color: aqua;
+	font-size: 40px;
+	line-height: 32px;
+	color: #30302e;
+	font-weight: 700;
+    right: 50%;
+    position: relative;
+    left: 50%;
+ margin-right: 10px;
+}
+
+.right{
+    
+    margin-bottom: 70px;
+  
+   left: 50%;
+   right: 50%;
+   position: relative;
+   text-align: center;
+    
+}
+
+
+.Electronic{
+    text-align: center;
+    font-size: 40px;
+line-height: 32px;
+color: #30302e;
+font-weight: 700;
+margin-bottom: 55px;
+
+}
+
+/*=============================================================Electronic=================================================================*/
+
+
+.fa-solid.fa-angles-left {
+	padding-top: 55px;
+	padding-bottom: 66px;
+}
+
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to { 
+        transform: rotate(360deg);
+    }
+}
+ 
+
+ @-webkit-keyframes rotate {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to { 
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.load {
+	width: 100px;
+	height: 100px;
+	margin: 110px auto 0;
+	border:solid 10px #8822aa;
+	border-radius: 50%;
+	border-right-color: transparent;
+	border-bottom-color: transparent;
+	 -webkit-transition: all 0.5s ease-in;
+    -webkit-animation-name:             rotate; 
+    -webkit-animation-duration:         1.0s; 
+    -webkit-animation-iteration-count:  infinite;
+    -webkit-animation-timing-function: linear;
+    	
+    	 transition: all 0.5s ease-in;
+    animation-name:             rotate; 
+    animation-duration:         1.0s; 
+    animation-iteration-count:  infinite;
+    animation-timing-function: linear; 
+    margin-bottom: 80px;
+
+} 
+
+ 
+
+ @-webkit-keyframes rotate {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to { 
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.Eflyer1{
+    text-align: center;
+    font-size: 50px;
+line-height: 32px;
+color: #ffffff;
+font-weight: bold;
+/*font-family: "Berlin Sans FB Demi";*/
+margin-bottom: 33px;
+}
+
+.footer{
+    background-color:#242424;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.footer-list{
+    list-style: none;
+    
+}
+
+.footer-list li{
+    display: inline-block;
+   
+}
+
+
+
+.email a{
+    color: #8822aa;
+}
+
+.btn-secondary {
+	/*font-size: 17px;*/
+/*line-height: 32px;*/
+text-transform: uppercase;
+color: #f26522;
+/*font-weight: 700;*/
+}
+
+.Subscribe-list{
+    text-align: center;
+}
+
+.Subscribe-list li{
+    list-style: none;
+    display: inline-block;
+    
+}
+
+
+img {
+	padding: 42px;
+	box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255), 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+	/* margin-right: 40px; */
+	height:500px;
+	width: 400px;
+}
+
+.Subscribe-list li a{
+    font-size: 17px;
+line-height: 32px;
+color: #f1f1f1;
+font-weight: 400;
+
+}
+
+.Subscribe-list li {
+    font-size: 17px;
+    line-height: 32px;
+    color: #f1f1f1;
+    font-weight: 400;
+    padding-left: 25px;
+    margin-top: 40px;
+    
+}
+
+.number{
+    list-style: none;
+    text-align: center;
+}
+.number li a{
+    font-size: 17px;
+line-height: 32px;
+color: #f1f1f1;
+font-weight: 400;
+font-family: "Poppins";
+}
+
+
+
+
+
+
+
+
+h5{
+    font-size: 17px;
+    line-height: 32px;
+    color: #30302e;
+    font-weight: 700;
+    font-family: "Poppins";
+    padding: 10px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+      0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+          width: 400px;
+}
+
+
+h6{
+    font-size: 17px;
+    line-height: 32px;
+    color: #f26522;
+    font-weight: 400;
+    font-family: "Poppins";
+ padding: 10px;
+    box-shadow: inset  rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+      0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+      width: 400px;
+}

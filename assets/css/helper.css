@@ -1,0 +1,54 @@
+
+
+
+.nav-bar li{
+   display: inline-block;
+   padding-bottom: 23px;
+   padding-top: 26px;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+}
+
+.hero{
+    background-image: url("../images/frist-back-ground.jpg");
+    min-height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+background: linear-gradient;
+
+}
+.nav-bar{
+    background-color:#2b2928;
+    border-radius: 50px;
+}
+.nav-bar li a{
+
+   margin-right: 35px;
+   opacity: 0.659;
+font-size: 17px;
+line-height: 32px;
+color: #f1f1f1;
+font-weight: 400;
+font-family: "Poppins";
+  
+}
+
+.nav-bar{
+margin-bottom: 26px;
+}
+
+
+.Eflyer{
+    font-size: 45px;
+line-height: 32px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Berlin Sans FB Demi";
+margin-bottom: 25px;
+}
+
+/*==============================================================           Electronic     ======================================================================*/
